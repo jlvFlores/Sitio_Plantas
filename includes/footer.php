@@ -13,19 +13,31 @@
 		</div>
 		<div class="col-md-4">
 			<h3 class="text-center">CONTACTANOS</h3><br>
-			<div style="margin-top:-25px" >
-				<a class="social-icon" href="https://www.facebook.com/" target="_blank">
-					<img class="social-icon" src="img/logos/logo-facebook.svg"></img>
-				</a>
-				<a class="social-icon" href="https://www.twitter.com/" target="_blank">
-					<img src="img/logos/logo-twitter.svg"></img>
-				</a>
-				<a class="social-icon" href="https://www.instagram.com/" target="_blank">
-					<img src="img/logos/logo-instagram.svg"></img>
-				</a>
-				<a class="social-icon" href="https://www.whatsapp.com/" target="_blank">
-					<img src="img/logos/logo-whatsapp.svg"></img>
-				</a>
+			<div class="row align-items-center">
+				<div class="col">
+				</div>
+				<div class="col">
+					<a class="social-icon" href="https://www.facebook.com/" target="_blank">
+						<img src="img/logos/logo-facebook.svg"></img>
+					</a>
+				</div>
+				<div class="col">
+					<a class="social-icon" href="https://www.twitter.com/" target="_blank">
+						<img src="img/logos/logo-twitter.svg"></img>
+					</a>
+				</div>
+				<div class="col">
+					<a class="social-icon" href="https://www.instagram.com/" target="_blank">
+						<img src="img/logos/logo-instagram.svg"></img>
+					</a>
+				</div>
+				<div class="col">
+					<a class="social-icon" href="https://www.whatsapp.com/" target="_blank">
+						<img src="img/logos/logo-whatsapp.svg"></img>
+					</a>
+				</div>
+				<div class="col">
+				</div>
 			</div>
 		</div>
 	</div>

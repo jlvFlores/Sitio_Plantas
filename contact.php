@@ -19,7 +19,7 @@
                 <input type="text" class="input-field" placeholder="Nombre completo">
                 <input type="email" class="input-field" placeholder="Correo">
                 <input type="text" class="input-field" placeholder="Tema">
-                <textarea type="text" class="input-field textarea-field" placeholder="Escribe tu duda o pregunta." name="" id="" cols="30" rows="10"></textarea>
+                <textarea type="text" class="input-field textarea-field" placeholder="Escribe tu duda o pregunta." cols="44" rows="10"></textarea>
                 <button type="button" class="btn">Enviar Mensaje</button>
             </form>
         </div>
